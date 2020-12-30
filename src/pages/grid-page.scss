@@ -6,6 +6,14 @@
 
 
 .grid-box{
-    height: 50px;
+    min-height: 50px;
     background-color: #bbb;
+    text-align: center;
+    line-height: 50px;
+    color: #fff;
+}
+
+hr{
+    margin: 16px 0;
+    border-width: 1px;
 }
